@@ -48,3 +48,51 @@ The system identifies compute instances with less than 5% CPU utilization over a
 ## Student Information
 
 **SRN:** PES1UG24AM282
+
+---
+
+## Software Engineering Lab 2
+
+### Agile Backlog Creation & Sprint Simulation in Jira
+
+**Name:** Sreekar Bandi  
+**SRN:** PES1UG24AM282
+
+This section contains the work completed for Software Engineering Lab 2 using Jira.
+
+### Jira Workspace
+
+- **Workspace:** `srikar_SELab`
+- **Board:** `SELAB board`
+
+### Epics
+
+1. Requirements & Design
+2. Development & Integration
+3. Testing, Documentation & Deployment
+
+### Agile Workflow
+
+The work was organized into one-week sprints and progressed through:
+
+`To Do → In Progress → In Review → Done`
+
+### Lab 2 Deliverables
+
+The complete Lab 2 submission is available here:
+
+[SE Lab 2 Deliverables PDF](./Sreekar_Bandi_PES1UG24AM282_SE_Lab2_Deliverables_v2.pdf)
+
+The PDF contains:
+
+- Jira backlog with Epics and User Stories
+- Sprint planning and sprint execution screenshots
+- Work-item status/progress evidence
+- Story-point/estimation evidence
+- Burndown Chart
+- Reflection answers
+
+### Project Context
+
+The Jira backlog is based on the **Multi-Cloud Asset Cost Optimization Portal** developed from the requirements defined in Software Engineering Lab 1.
+
