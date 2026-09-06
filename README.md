@@ -81,7 +81,7 @@ The work was organized into one-week sprints and progressed through:
 
 The complete Lab 2 submission is available here:
 
-[SE Lab 2 Deliverables PDF](./Sreekar_Bandi_PES1UG24AM282_SE_Lab2_Deliverables_v2.pdf)
+[SE Lab 2 Deliverables PDF](./Sreekar_Bandi_PES1UG24AM282_SE_Lab2_Deliverables.pdf)
 
 The PDF contains:
 
