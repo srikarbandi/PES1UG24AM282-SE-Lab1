@@ -96,3 +96,23 @@ The PDF contains:
 
 The Jira backlog is based on the **Multi-Cloud Asset Cost Optimization Portal** developed from the requirements defined in Software Engineering Lab 1.
 
+
+---
+
+## Software Engineering Lab 4
+
+### Reaction Time Tester (Pygame) - Debugging with an LLM
+
+**Name:** Sreekar Bandi  
+**SRN:** PES1UG24AM282
+
+The project is in [`Lab4_Reaction_Time_Tester/`](./Lab4_Reaction_Time_Tester/). Run it with `pip install -r requirements.txt` then `python main.py`.
+
+Tasks completed:
+
+1. **Input timing** - reaction time is measured from the moment the screen turns green; clicking during the grey wait screen is a false start (not recorded).
+2. **Game over screen** - lists every round's time and the average, and waits for input.
+3. **Replay** - choose Easy, Medium or Hard (own wait range and round count) or quit.
+4. **Sound** - go cue, false start and session-end sounds, generated in code (no audio files).
+
+Submission files are in [`Lab4_Reaction_Time_Tester/submission/`](./Lab4_Reaction_Time_Tester/submission/): the before and after gameplay videos and the chat history PDF.
