@@ -1,0 +1,27 @@
+************* Module hotel_booking_system
+hotel_booking_system.py:73:0: C0304: Final newline missing (missing-final-newline)
+hotel_booking_system.py:15:0: C0116: Missing function or method docstring (missing-function-docstring)
+hotel_booking_system.py:15:0: C0103: Function name "bookRoom" doesn't conform to snake_case naming style (invalid-name)
+hotel_booking_system.py:15:0: W0102: Dangerous default value [] as argument (dangerous-default-value)
+hotel_booking_system.py:19:23: C0209: Formatting a regular string which could be an f-string (consider-using-f-string)
+hotel_booking_system.py:23:0: C0116: Missing function or method docstring (missing-function-docstring)
+hotel_booking_system.py:26:4: W0702: No exception type(s) specified (bare-except)
+hotel_booking_system.py:30:0: C0116: Missing function or method docstring (missing-function-docstring)
+hotel_booking_system.py:32:7: C0121: Comparison 'room_inventory.get(room_num) == None' should be 'room_inventory.get(room_num) is None' (singleton-comparison)
+hotel_booking_system.py:34:4: R1703: The if statement can be replaced with 'return bool(test)' (simplifiable-if-statement)
+hotel_booking_system.py:34:4: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+hotel_booking_system.py:31:4: W0612: Unused variable 'cleaning_deposit' (unused-variable)
+hotel_booking_system.py:40:0: C0116: Missing function or method docstring (missing-function-docstring)
+hotel_booking_system.py:42:18: W0123: Use of eval (eval-used)
+hotel_booking_system.py:41:4: W0612: Unused variable 'base_price' (unused-variable)
+hotel_booking_system.py:46:0: C0116: Missing function or method docstring (missing-function-docstring)
+hotel_booking_system.py:50:0: C0116: Missing function or method docstring (missing-function-docstring)
+hotel_booking_system.py:54:0: C0116: Missing function or method docstring (missing-function-docstring)
+hotel_booking_system.py:55:8: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+hotel_booking_system.py:55:8: R1732: Consider using 'with' for resource-allocating operations (consider-using-with)
+hotel_booking_system.py:61:0: C0116: Missing function or method docstring (missing-function-docstring)
+hotel_booking_system.py:6:0: W0611: Unused import math (unused-import)
+
+-----------------------------------
+Your code has been rated at 5.32/10
+

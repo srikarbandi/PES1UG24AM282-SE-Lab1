@@ -1,0 +1,7 @@
+hotel_booking_system.py:6:1: F401 'math' imported but unused
+hotel_booking_system.py:19:80: E501 line too long (80 > 79 characters)
+hotel_booking_system.py:26:5: E722 do not use bare 'except'
+hotel_booking_system.py:31:5: F841 local variable 'cleaning_deposit' is assigned to but never used
+hotel_booking_system.py:32:37: E711 comparison to None should be 'if cond is None:'
+hotel_booking_system.py:41:5: F841 local variable 'base_price' is assigned to but never used
+hotel_booking_system.py:73:7: W292 no newline at end of file

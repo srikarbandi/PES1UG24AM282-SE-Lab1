@@ -121,10 +121,12 @@ Submission files are in [`Lab4_Reaction_Time_Tester/submission/`](./Lab4_Reactio
 
 ## Software Engineering Labs 5–7
 
-The assignments use individually assigned starter repositories. The completed code, analysis reports, tests, and evidence are available here:
+The completed assignments are included in this repository:
 
-- **Lab 5 — Static Code Analysis:** [Hotel Booking System](https://github.com/srikarbandi/L5_43_hotel_booking_system) — before/after Pylint, Bandit, and Flake8 reports, issue log, reflection, and cleaned application.
-- **Lab 6 — Code and Branch Coverage:** [Warranty Claims](https://github.com/srikarbandi/L6_L7_43_warranty_claims/tree/main/Lab%206) — line and branch coverage tests and report screenshots.
-- **Lab 7 — Fuzz Testing:** [Warranty Claims](https://github.com/srikarbandi/L6_L7_43_warranty_claims/tree/main/Lab%207) — Hypothesis tests, hardened application, and screenshot PDF.
+- **Lab 5 — Static Code Analysis:** [Hotel Booking System](./Lab5_Static_Code_Analysis/) — cleaned application, before/after Pylint, Bandit, and Flake8 reports, issue table, and reflection.
+- **Lab 6 — Code and Branch Coverage:** [Warranty Claims](./Lab6_Code_and_Branch_Coverage/) — line and branch coverage tests, screenshots, and source module.
+- **Lab 7 — Fuzz Testing:** [Warranty Claims](./Lab7_Fuzz_Testing/) — Hypothesis tests, hardened application, and screenshot PDF.
 
-These are the assigned-repository submissions for SRN **PES1UG24AM282**.
+The original assigned-repository submissions are also available at [Lab 5](https://github.com/srikarbandi/L5_43_hotel_booking_system) and [Labs 6–7](https://github.com/srikarbandi/L6_L7_43_warranty_claims).
+
+SRN **PES1UG24AM282**
