@@ -116,3 +116,15 @@ Tasks completed:
 4. **Sound** - go cue, false start and session-end sounds, generated in code (no audio files).
 
 Submission files are in [`Lab4_Reaction_Time_Tester/submission/`](./Lab4_Reaction_Time_Tester/submission/): the before and after gameplay videos and the chat history PDF.
+
+---
+
+## Software Engineering Labs 5–7
+
+The assignments use individually assigned starter repositories. The completed code, analysis reports, tests, and evidence are available here:
+
+- **Lab 5 — Static Code Analysis:** [Hotel Booking System](https://github.com/srikarbandi/L5_43_hotel_booking_system) — before/after Pylint, Bandit, and Flake8 reports, issue log, reflection, and cleaned application.
+- **Lab 6 — Code and Branch Coverage:** [Warranty Claims](https://github.com/srikarbandi/L6_L7_43_warranty_claims/tree/main/Lab%206) — line and branch coverage tests and report screenshots.
+- **Lab 7 — Fuzz Testing:** [Warranty Claims](https://github.com/srikarbandi/L6_L7_43_warranty_claims/tree/main/Lab%207) — Hypothesis tests, hardened application, and screenshot PDF.
+
+These are the assigned-repository submissions for SRN **PES1UG24AM282**.
